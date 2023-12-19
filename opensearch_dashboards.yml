@@ -273,3 +273,6 @@
 
 # Set the value of this setting to true to enable plugin augmentation on Dashboard
 # vis_augmenter.pluginAugmentationEnabled: true
+
+# Enables ML functionality in Dashboard
+ml_commons_dashboards.enabled: true
